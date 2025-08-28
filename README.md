@@ -21,9 +21,9 @@ research-assistant-mcp: An attempt to organize my knowledge of MCP byt creating 
 
 
 ## 📚 Recent Publications
-- "Mortality in LLMs: Exploring Ethical Alignment vs. Self Preservation"
+- ["Mortality in LLMs: Exploring Ethical Alignment vs. Self Preservation"](https://medium.com/where-thought-bends/mortality-in-llms-exploring-ethical-alignment-vs-self-preservation-b344f909c6c8)
 
-- "Challenges in navigating a 2D space using the image capabilities of multimodal LLMs"
+- ["Challenges in navigating a 2D space using the image capabilities of multimodal LLMs"](https://medium.com/@victor.l.sattamini/challenges-in-navigating-a-2d-space-using-the-image-capabilities-of-multimodal-llms-9e9653611cb2)
 
 ## 🤝 Connect with Me
 [GitHub](https://github.com/vsattamini)
