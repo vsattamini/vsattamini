@@ -29,11 +29,12 @@ Building production AI backends that actually work. Research focus on alignment 
 ## Tech Stack
 
 ```
-LLM/ML:      OpenAI, LangChain, PyTorch, Hugging Face, DSPy
-Backend:     Python, FastAPI, async/await, MongoDB, PostgreSQL
-Vector:      MongoDB Atlas Search, Chroma, text-embedding-3-small
+LLM/ML:      OpenAI, LangChain, PyTorch, Hugging Face, DSPy, sk-learn
+Data:        Pandas, Numpy, Seaborn, Matplotlib, LibRosa
+Backend:     Python, FastAPI, async/await, MongoDB, PostgreSQL, Django
+Vector:      MongoDB Atlas Search, Chroma, Pinecone
 Infra:       Docker, Azure, GitHub Actions
-Research:    Evaluation frameworks, red teaming, behavioral analysis
+Research:    Evaluation frameworks, red teaming, behavioral analysis, orchestration
 ```
 
 ---
