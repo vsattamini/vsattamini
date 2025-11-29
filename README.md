@@ -43,16 +43,6 @@ Research:    Evaluation frameworks, red teaming, behavioral analysis, orchestrat
 ### [research-assistant-mcp](https://github.com/vsattamini/research-assistant-mcp)
 MCP proxy implementing research workflow orchestration. Python-based agent coordination with structured output handling.
 
-### [document-signals](https://github.com/vsattamini/document-signals) *(In Development)*
-Multi-phase LLM extraction pipeline for structured signal analysis. Demonstrates production patterns: async orchestration, weighted scoring with time decay, vector embeddings, and semantic matching.
-
-### [alignment-evals](https://github.com/vsattamini/alignment-evals) *(In Development)*
-Open-source LLM alignment evaluation framework. 500+ adversarial scenarios covering behavioral breakdown points, deception detection, and self-preservation analysis.
-
-### [agent-orchestrator](https://github.com/vsattamini/agent-orchestrator) *(In Development)*
-Production-grade multi-agent framework with ReAct loops, dynamic tool creation, and LangFuse observability. Built in parrallel with my Master's thesis on multi-agent architectures.
-
-
 
 ---
 
