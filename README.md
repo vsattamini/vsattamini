@@ -1,34 +1,86 @@
-## 🧑‍💻 About Me
-Master's student in Computational Science and active AI developer based in Rio de Janeiro, Brazil. Passionate about advancing AI safety, ethical alignment, and exploring new frontiers in embodied consciousness and intelligent systems.
+# Victor Sattamini
 
-## 🛠️ Core Skills
-Python for computational science and machine learning
+**Senior AI/ML Engineer** | Production LLM Systems | AI Safety Research | Multi-Agent Architectures
 
-Multimodal LLMs and navigation systems
+Building production AI backends that actually work. Research focus on alignment evaluation and agent cognition.
 
-AI safety, alignment, and ethical considerations in large language models
+---
 
-Research and development in simulation environments
+## What I Build
 
-## 🚀 Projects & Research
-### Pinned repositories:
+**Production AI Systems**
+- End-to-end LLM backends serving 10K+ users
+- Multi-phase extraction pipelines with weighted signal scoring
+- Semantic matching systems (vector search + hard filters + LLM reranking)
+- Async FastAPI services with background sync workers
 
-silvertone-organized: Final project for a bootcamp. Simple emotion-recognition model (Random Forest) tained on Audio Features
+**Agent Architectures**
+- ReAct-based agent loops with dynamic tool creation
+- Multi-agent orchestration and delegation systems
+- Custom observability for production LLM monitoring
 
-silvertone-app (forked) : The app in Streamlit for the model above
+**AI Safety Research**
+- Alignment evaluation frameworks (500+ adversarial scenarios)
+- Behavioral analysis of LLMs under conflicting objectives
+- Published research on LLM cognition and ethical decision-making
 
-research-assistant-mcp: An attempt to organize my knowledge of MCP byt creating a proxy for it using python logic. It also simulates and orchestrator for a research workflow. It was a challenge, coded in 4 days.
+---
+
+## Tech Stack
+
+```
+LLM/ML:      OpenAI, LangChain, PyTorch, Hugging Face, DSPy
+Backend:     Python, FastAPI, async/await, MongoDB, PostgreSQL
+Vector:      MongoDB Atlas Search, Chroma, text-embedding-3-small
+Infra:       Docker, Azure, GitHub Actions
+Research:    Evaluation frameworks, red teaming, behavioral analysis
+```
+
+---
+
+## Featured Projects
+### [research-assistant-mcp](https://github.com/vsattamini/research-assistant-mcp)
+MCP proxy implementing research workflow orchestration. Python-based agent coordination with structured output handling.
+
+### [document-signals](https://github.com/vsattamini/document-signals) *(In Development)*
+Multi-phase LLM extraction pipeline for structured signal analysis. Demonstrates production patterns: async orchestration, weighted scoring with time decay, vector embeddings, and semantic matching.
+
+### [alignment-evals](https://github.com/vsattamini/alignment-evals) *(In Development)*
+Open-source LLM alignment evaluation framework. 500+ adversarial scenarios covering behavioral breakdown points, deception detection, and self-preservation analysis.
+
+### [agent-orchestrator](https://github.com/vsattamini/agent-orchestrator) *(In Development)*
+Production-grade multi-agent framework with ReAct loops, dynamic tool creation, and LangFuse observability. Built in parrallel with my Master's thesis on multi-agent architectures.
 
 
-## 📚 Recent Publications
-- ["Mortality in LLMs: Exploring Ethical Alignment vs. Self Preservation"](https://medium.com/where-thought-bends/mortality-in-llms-exploring-ethical-alignment-vs-self-preservation-b344f909c6c8)
 
-- ["Challenges in navigating a 2D space using the image capabilities of multimodal LLMs"](https://medium.com/@victor.l.sattamini/challenges-in-navigating-a-2d-space-using-the-image-capabilities-of-multimodal-llms-9e9653611cb2)
+---
 
-## 🤝 Connect with Me
-[GitHub](https://github.com/vsattamini)
+## Publications
 
-[Medium](https://medium.com/@victor.l.sattamini)
+- [Mortality in LLMs: Exploring Ethical Alignment vs. Self Preservation](https://medium.com/where-thought-bends/mortality-in-llms-exploring-ethical-alignment-vs-self-preservation-b344f909c6c8) — Behavioral experiments on LLM self-preservation under trolley-problem scenarios
 
-[LinkedIn](https://www.linkedin.com/in/victorsattamini/)
+- [Challenges in Navigating 2D Space Using Multimodal LLMs](https://medium.com/@victor.l.sattamini/challenges-in-navigating-a-2d-space-using-the-image-capabilities-of-multimodal-llms-9e9653611cb2) — Vision-capable LLMs in simulated navigation environments
 
+---
+
+## Background
+
+**Currently**: MSc Computational Science @ UERJ (thesis: multi-agent architectures)
+
+**Previously**: 
+- Senior AI/ML Engineer @ TeamEx — Built AI backend for talent matching platform
+- LLM Cognition & Alignment Researcher @ CloudWalk — Safety research and production chatbots
+- Data Science Teacher @ Le Wagon — 2.5 years teaching ML, Python, data engineering
+
+---
+
+## Contact
+
+- **Email**: victor.l.sattamini@gmail.com
+- **LinkedIn**: [victorsattamini](https://www.linkedin.com/in/victorsattamini/)
+- **Medium**: [@victor.l.sattamini](https://medium.com/@victor.l.sattamini)
+- **Location**: Rio de Janeiro, Brazil (UTC-3) | Remote-first
+
+---
+
+*Open to AI/ML engineering roles with focus on agents, safety, or production LLM systems. American and European companies preferred.*
