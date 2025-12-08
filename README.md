@@ -43,6 +43,10 @@ Research:    Evaluation frameworks, red teaming, behavioral analysis, orchestrat
 ### [research-assistant-mcp](https://github.com/vsattamini/research-assistant-mcp)
 MCP proxy implementing research workflow orchestration. Python-based agent coordination with structured output handling.
 
+### [LLM Mortality Experiment](https://ai-mortality-experiment.onrender.com/)
+Frontend and results disply for an experiment cross referencing the responses of 4 leading LLM providers (OpenAI, Anthropic, DeepSeek and Google Gemini) to existential threats, here exemplified by an adaptation of the trolley problem
+Repositories: [Flask Backend](https://github.com/vsattamini/mortality-flask#) and [React Frontend](https://github.com/vsattamini/mortality-react)
+
 
 ---
 
