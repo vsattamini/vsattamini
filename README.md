@@ -50,7 +50,7 @@ Repositories: [Flask Backend](https://github.com/vsattamini/mortality-flask#) an
 
 ---
 
-## Publications
+## Articles
 
 - [Mortality in LLMs: Exploring Ethical Alignment vs. Self Preservation](https://medium.com/where-thought-bends/mortality-in-llms-exploring-ethical-alignment-vs-self-preservation-b344f909c6c8) — Behavioral experiments on LLM self-preservation under trolley-problem scenarios
 
