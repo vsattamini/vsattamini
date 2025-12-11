@@ -47,6 +47,9 @@ MCP proxy implementing research workflow orchestration. Python-based agent coord
 Frontend and results disply for an experiment cross referencing the responses of 4 leading LLM providers (OpenAI, Anthropic, DeepSeek and Google Gemini) to existential threats, here exemplified by an adaptation of the trolley problem
 Repositories: [Flask Backend](https://github.com/vsattamini/mortality-flask#) and [React Frontend](https://github.com/vsattamini/mortality-react)
 
+### [send-money-agent](https://github.com/vsattamini/send-money-agent)
+Agent using Google ADK that processes (mock) money transfers. Manages states, checks for limits and validates interactions with the user. 
+
 
 ---
 
